@@ -39,7 +39,7 @@ altyapı hazır, tek yapılması gereken kazıyıcıya ders eklemek.
 Bağımlılık yok, sadece Python 3 yeterli.
 
 ```bash
-git clone https://github.com/<kullanici>/turkce-ders-kitaplari.git
+git clone https://github.com/Omerfiratgozutok/turkce-ders-kitaplari.git
 cd turkce-ders-kitaplari
 
 python3 indir.py --liste          # neler var, indirmeden gör
