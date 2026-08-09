@@ -1,0 +1,12 @@
+# indirilen PDF'ler depoya girmez
+kitaplar/
+*.pdf
+*.pdf.part
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# macos
+.DS_Store

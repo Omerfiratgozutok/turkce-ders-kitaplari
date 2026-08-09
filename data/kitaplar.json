@@ -1,0 +1,249 @@
+{
+  "kaynak": "https://ogmmateryal.eba.gov.tr",
+  "guncelleme": "2026-08-09",
+  "kitap_sayisi": 13,
+  "cilt_sayisi": 14,
+  "toplam_bayt": 796074100,
+  "kitaplar": [
+    {
+      "ders": "Matematik (Fen Lisesi)",
+      "ders_slug": "fl-matematik",
+      "seviye": "lise",
+      "sinif": 11,
+      "sinif_etiketi": "11. Sınıf",
+      "eski_mufredat": false,
+      "yayinevi": "MEB",
+      "kaynak_sayfa": "https://ogmmateryal.eba.gov.tr/etkilesimli-kitap/fl-matematik?s=8&d=30&u=0&k=0",
+      "ciltler": [
+        {
+          "cilt": 1,
+          "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/jbljdfj13lp.pdf",
+          "boyut_bayt": 53380220,
+          "dosya_adi": "11-sinif-fl-matematik-meb.pdf"
+        }
+      ]
+    },
+    {
+      "ders": "Matematik (Fen Lisesi)",
+      "ders_slug": "fl-matematik",
+      "seviye": "lise",
+      "sinif": 12,
+      "sinif_etiketi": "12. Sınıf",
+      "eski_mufredat": false,
+      "yayinevi": "MEB",
+      "kaynak_sayfa": "https://ogmmateryal.eba.gov.tr/etkilesimli-kitap/fl-matematik?s=9&d=31&u=0&k=0",
+      "ciltler": [
+        {
+          "cilt": 1,
+          "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/gbis20mk3sa.pdf",
+          "boyut_bayt": 61421364,
+          "dosya_adi": "12-sinif-fl-matematik-meb.pdf"
+        }
+      ]
+    },
+    {
+      "ders": "Matematik (Fen Lisesi)",
+      "ders_slug": "fl-matematik",
+      "seviye": "lise",
+      "sinif": 9,
+      "sinif_etiketi": "9. Sınıf (2017-23 Müfredatı)",
+      "eski_mufredat": true,
+      "yayinevi": "MEB",
+      "kaynak_sayfa": "https://ogmmateryal.eba.gov.tr/etkilesimli-kitap/fl-matematik?s=6&d=28&u=0&k=0",
+      "ciltler": [
+        {
+          "cilt": 1,
+          "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/4ix4mivsk5p.pdf",
+          "boyut_bayt": 29855245,
+          "dosya_adi": "9-sinif-2017mufredat-fl-matematik-meb.pdf"
+        }
+      ]
+    },
+    {
+      "ders": "Matematik (Fen Lisesi)",
+      "ders_slug": "fl-matematik",
+      "seviye": "lise",
+      "sinif": 10,
+      "sinif_etiketi": "10. Sınıf (2017-23 Müfredatı)",
+      "eski_mufredat": true,
+      "yayinevi": "MEB",
+      "kaynak_sayfa": "https://ogmmateryal.eba.gov.tr/etkilesimli-kitap/fl-matematik?s=7&d=29&u=0&k=0",
+      "ciltler": [
+        {
+          "cilt": 1,
+          "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/ff11vazba2i.pdf",
+          "boyut_bayt": 41854991,
+          "dosya_adi": "10-sinif-2017mufredat-fl-matematik-meb.pdf"
+        }
+      ]
+    },
+    {
+      "ders": "Matematik",
+      "ders_slug": "matematik",
+      "seviye": "lise",
+      "sinif": null,
+      "sinif_etiketi": "Hazırlık",
+      "eski_mufredat": false,
+      "yayinevi": "MEB",
+      "kaynak_sayfa": "https://ogmmateryal.eba.gov.tr/etkilesimli-kitap/matematik?s=23&d=208&u=0&k=0",
+      "ciltler": [
+        {
+          "cilt": 1,
+          "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/swjylddrj41.pdf",
+          "boyut_bayt": 65155744,
+          "dosya_adi": "hazirlik-matematik-meb.pdf"
+        }
+      ]
+    },
+    {
+      "ders": "Matematik",
+      "ders_slug": "matematik",
+      "seviye": "lise",
+      "sinif": 9,
+      "sinif_etiketi": "9. Sınıf",
+      "eski_mufredat": false,
+      "yayinevi": "MEB",
+      "kaynak_sayfa": "https://ogmmateryal.eba.gov.tr/etkilesimli-kitap/matematik?s=21&d=204&u=0&k=0",
+      "ciltler": [
+        {
+          "cilt": 1,
+          "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/xarxnz5n30i.pdf",
+          "boyut_bayt": 60973117,
+          "dosya_adi": "9-sinif-matematik-meb-cilt1.pdf"
+        },
+        {
+          "cilt": 2,
+          "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/ssq4n1cqcle.pdf",
+          "boyut_bayt": 51772655,
+          "dosya_adi": "9-sinif-matematik-meb-cilt2.pdf"
+        }
+      ]
+    },
+    {
+      "ders": "Matematik",
+      "ders_slug": "matematik",
+      "seviye": "lise",
+      "sinif": 10,
+      "sinif_etiketi": "10. Sınıf",
+      "eski_mufredat": false,
+      "yayinevi": "MEB",
+      "kaynak_sayfa": "https://ogmmateryal.eba.gov.tr/etkilesimli-kitap/matematik?s=22&d=220&u=0&k=0",
+      "ciltler": [
+        {
+          "cilt": 1,
+          "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/dthquofmik0.pdf",
+          "boyut_bayt": 89239650,
+          "dosya_adi": "10-sinif-matematik-meb.pdf"
+        }
+      ]
+    },
+    {
+      "ders": "Matematik",
+      "ders_slug": "matematik",
+      "seviye": "lise",
+      "sinif": 11,
+      "sinif_etiketi": "11. Sınıf",
+      "eski_mufredat": false,
+      "yayinevi": "MEB",
+      "kaynak_sayfa": "https://ogmmateryal.eba.gov.tr/etkilesimli-kitap/matematik?s=8&d=50&u=0&k=0",
+      "ciltler": [
+        {
+          "cilt": 1,
+          "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/hopon1npid4.pdf",
+          "boyut_bayt": 71660942,
+          "dosya_adi": "11-sinif-matematik-meb.pdf"
+        }
+      ]
+    },
+    {
+      "ders": "Matematik",
+      "ders_slug": "matematik",
+      "seviye": "lise",
+      "sinif": 12,
+      "sinif_etiketi": "12. Sınıf",
+      "eski_mufredat": false,
+      "yayinevi": "MEB",
+      "kaynak_sayfa": "https://ogmmateryal.eba.gov.tr/etkilesimli-kitap/matematik?s=9&d=51&u=0&k=0",
+      "ciltler": [
+        {
+          "cilt": 1,
+          "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/2mnrwexu0kf.pdf",
+          "boyut_bayt": 49529954,
+          "dosya_adi": "12-sinif-matematik-meb.pdf"
+        }
+      ]
+    },
+    {
+      "ders": "Matematik",
+      "ders_slug": "matematik",
+      "seviye": "lise",
+      "sinif": 9,
+      "sinif_etiketi": "9. Sınıf (2017-23 Müfredatı)",
+      "eski_mufredat": true,
+      "yayinevi": "MEB",
+      "kaynak_sayfa": "https://ogmmateryal.eba.gov.tr/etkilesimli-kitap/matematik?s=6&d=48&u=0&k=0",
+      "ciltler": [
+        {
+          "cilt": 1,
+          "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/3y2qa2oq1vx.pdf",
+          "boyut_bayt": 54384999,
+          "dosya_adi": "9-sinif-2017mufredat-matematik-meb.pdf"
+        }
+      ]
+    },
+    {
+      "ders": "Matematik",
+      "ders_slug": "matematik",
+      "seviye": "lise",
+      "sinif": 10,
+      "sinif_etiketi": "10. Sınıf (2017-23 Müfredatı)",
+      "eski_mufredat": true,
+      "yayinevi": "MEB",
+      "kaynak_sayfa": "https://ogmmateryal.eba.gov.tr/etkilesimli-kitap/matematik?s=7&d=49&u=0&k=0",
+      "ciltler": [
+        {
+          "cilt": 1,
+          "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/2lm1zo5itpv.pdf",
+          "boyut_bayt": 79010578,
+          "dosya_adi": "10-sinif-2017mufredat-matematik-meb.pdf"
+        }
+      ]
+    },
+    {
+      "ders": "Matematik (Temel Duzey)",
+      "ders_slug": "matematik-temel-duzey",
+      "seviye": "lise",
+      "sinif": 11,
+      "sinif_etiketi": "11. Sınıf",
+      "eski_mufredat": false,
+      "yayinevi": "MEB",
+      "kaynak_sayfa": "https://ogmmateryal.eba.gov.tr/etkilesimli-kitap/matematik-temel-duzey?s=8&d=52&u=0&k=0",
+      "ciltler": [
+        {
+          "cilt": 1,
+          "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/cb3zhiddzc3.pdf",
+          "boyut_bayt": 51863494,
+          "dosya_adi": "11-sinif-matematik-temel-duzey-meb.pdf"
+        }
+      ]
+    },
+    {
+      "ders": "Matematik (Temel Duzey)",
+      "ders_slug": "matematik-temel-duzey",
+      "seviye": "lise",
+      "sinif": 12,
+      "sinif_etiketi": "12. Sınıf",
+      "eski_mufredat": false,
+      "yayinevi": "MEB",
+      "kaynak_sayfa": "https://ogmmateryal.eba.gov.tr/etkilesimli-kitap/matematik-temel-duzey?s=9&d=53&u=0&k=0",
+      "ciltler": [
+        {
+          "cilt": 1,
+          "url": "https://ogmmateryal.eba.gov.tr/panel/upload/pdf/oek3dei0kch.pdf",
+          "boyut_bayt": 35971147,
+          "dosya_adi": "12-sinif-matematik-temel-duzey-meb.pdf"
+        }
+      ]
+    }
+  ]
+}
