@@ -120,8 +120,6 @@ Kitapların telif hakkı **T.C. Millî Eğitim Bakanlığı**'na aittir ve MEB
 tarafından ücretsiz dağıtılmaktadır. Bu depo MEB ile bağlantılı değildir,
 MEB tarafından desteklenmemektedir.
 
-Bu depodaki **kod** MIT lisanslıdır.
-
 ## Katkı
 
 Eksik ders, bozuk link veya yanlış eşleşme gördüysen issue aç. Yeni ders
