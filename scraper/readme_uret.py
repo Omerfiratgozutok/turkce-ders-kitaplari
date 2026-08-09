@@ -109,7 +109,13 @@ doğrudan gerçekleşiyor.
 Kitapların telif hakkı **T.C. Millî Eğitim Bakanlığı**'na ait ve kitaplar MEB
 tarafından ücretsiz dağıtılıyor. Bu proje MEB ile bağlantılı değil.
 
-Kod açık kaynak — kullan, değiştir, paylaş.
+## Kod
+
+Açık kaynak. Kullan, değiştir, kendi projene koy, dağıt — izin almana gerek
+yok, sormana da. Resmi bir lisans dosyası koymadım; bu satırı lisans yerine
+say. Faydalı olduysa kaynak göstermen hoşuma gider ama zorunda değilsin.
+
+Garanti yok, sorumluluk kabul edilmez — kendi riskinle kullan.
 
 ## Katkı
 
