@@ -261,12 +261,12 @@ stateDiagram-v2
 
     Yaz --> Dogrula: akış bitti
     Dogrula --> HATA_R: boyut eksik
-    Dogrula --> HATA_R: "%PDF- imzası yok"
+    Dogrula --> HATA_R: PDF imzası yok
     Dogrula --> Rename: her ikisi tamam
 
     Rename --> INDIRILDI
-    HATA_R --> Istek: deneme < 3
-    HATA_R --> HATA: deneme = 3
+    HATA_R --> Istek: 3 denemeden az
+    HATA_R --> HATA: 3 deneme bitti
 
     ATLANDI --> [*]
     INDIRILDI --> [*]
