@@ -109,16 +109,17 @@ PDF'ler bilerek depoda tutulmuyor. Onlarca GB'lık bir git geçmişi klonlanamaz
 hale gelirdi; metadata + indirici ile hem depo hafif kalıyor hem de aynı
 "tek komutla hepsini indir" deneyimi sağlanıyor.
 
-## Telif ve sorumluluk
+## Kaynak
 
-Bu depoda **hiçbir PDF barındırılmıyor**. Depo yalnızca MEB'in kendi
-sunucularındaki (https://ogmmateryal.eba.gov.tr) herkese açık dosyalara işaret eden metadata ve bu
-dosyaları indiren bir araç içeriyor. İndirme, MEB sunucusundan doğrudan
-yapılır.
+Kitaplar **MEB'in resmi sitesinden** (https://ogmmateryal.eba.gov.tr) iniyor. Bu depoda hiçbir PDF
+barındırılmıyor — sadece MEB sunucusundaki dosyalara işaret eden metadata ve
+onları indiren bir araç var. İndirme senin makinen ile MEB sunucusu arasında
+doğrudan gerçekleşiyor.
 
-Kitapların telif hakkı **T.C. Millî Eğitim Bakanlığı**'na aittir ve MEB
-tarafından ücretsiz dağıtılmaktadır. Bu depo MEB ile bağlantılı değildir,
-MEB tarafından desteklenmemektedir.
+Kitapların telif hakkı **T.C. Millî Eğitim Bakanlığı**'na ait ve kitaplar MEB
+tarafından ücretsiz dağıtılıyor. Bu proje MEB ile bağlantılı değil.
+
+Kod açık kaynak — kullan, değiştir, paylaş.
 
 ## Katkı
 

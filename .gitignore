@@ -3,6 +3,9 @@ kitaplar/
 *.pdf
 *.pdf.part
 
+# depo klasorunun icine yapilan klon (git clone burada calistirilirsa)
+/turkce-ders-kitaplari/
+
 # python
 __pycache__/
 *.pyc
